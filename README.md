@@ -1,6 +1,6 @@
 # GloriasGardening-Project
---animations and interactivity that requires the addition of Bootstrap’s JavaScript files.
---utility classes which affect the styling and position of elements.
+##animations and interactivity that requires the addition of Bootstrap’s JavaScript files.
+##utility classes which affect the styling and position of elements.
 --the nav component provides default Bootstrap styling to links.
 --the responsive navbar component to quickly navigate between webpages.
 --the jumbotron component which prominently displays an image or text.
